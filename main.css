@@ -1,0 +1,140 @@
+.imghead {
+    display: block;
+    padding: .5em;
+}
+
+.hdr {
+    color: #013369;
+}
+
+h1 {
+    padding: .5em;
+    font-family: sans-serif;
+}
+
+h2 {
+    padding: .5em;
+    font-family: sans-serif;
+}
+
+h3 {
+    padding: .2em;
+    font-family: sans-serif
+}
+
+.pstyle {
+    width: 50%;
+    padding: .5em;
+    text-align: center;
+    width: 60%;
+}
+
+main {
+    width: 50%;
+    border-right: 3px solid #013369;
+    float: left;
+    
+}
+
+aside {
+    width: 50%;
+    float: right;
+}
+
+.hpimg {
+    margin: 2em;
+    border: 5px solid #013369;
+    border-radius: 25px;
+    display: block;
+}
+
+.hpblimp {
+    margin: 5em;
+    border: 5px solid #013369;
+    border-radius: 25px;
+    text-align: center;
+    background-color: yellow;
+}
+
+
+
+footer {
+    float: left;
+    clear: both;
+    border: 2px solid #013369;
+    text-align: right;
+    width: 100%;
+    background-color: #CED4DA;
+    padding: 1em;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #013369;
+}
+
+header {
+    border-bottom: 2px solid #013369;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.tc {
+    text-align: center;
+}
+
+li {
+    margin-right: 10px;
+    margin-left: .5em;
+    padding: .05em;
+}
+
+.bodys {
+    background-color: white;
+}
+
+/* removes underline for links when hovered */
+a:hover {
+    text-decoration: none;
+}
+
+.trs {
+    border-bottom: 3px solid #013369;
+}
+
+th, td {
+    padding: 8px;
+}
+
+table {
+    border: 3px solid #013369;
+    background-color: lightgray;
+    padding-bottom: .5em;
+    margin-left: 2%;
+    font-family: sans-serif;
+    margin-bottom: 2%;
+}
+
+input:hover {
+    background-color: green;
+}
+
+
+#form {
+    padding: .5em;
+}
+
+.media {
+    padding: .8em;
+}
+
+.button {
+    font-size: 12px;
+    background-color: #013369;
+    color: white;
+    border-radius: 8px;
+}
+
